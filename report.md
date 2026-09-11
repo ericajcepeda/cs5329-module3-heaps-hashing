@@ -78,7 +78,7 @@ To decrease the number of collisions during runtime testing, the size of the has
 
 ## 5. Runtime Testing Results
 
-Runtime testing was performed with input sizes of **100, 1,000, and 10,000** as suggested in the assignment. For the priority queue, insertion and extraction operations were tested and for the hash table insertion and search were tested. The report is supposed to include the following information about the tests: input size, operation, runtime and correctness of the output. :contentReference[oaicite:1]{index=1}
+Runtime testing was performed with input sizes of **100, 1,000, and 10,000** as suggested in the assignment. For the priority queue, insertion and extraction operations were tested and for the hash table insertion and search were tested. The report is supposed to include the following information about the tests: input size, operation, runtime and correctness of the output. 
 
 ### Priority Queue Runtime Results
 
